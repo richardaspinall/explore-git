@@ -2,6 +2,12 @@
 
 > Jan 2021
 
+## Description
+> This is a space for playing with Git in conjunction with a couple of Pluralsight courses. I've listed some steps that I took to test out and get familar with it. 
+
+## Goals
+> To get better at using Git so I can work projects more efficiently and also collaborate. Obviously this should naturally come second nature while working on projects but I want to ensure I don't ignore any best practices. Plus being able to use and traverse Git means I can more safely modify projects and save a lot of time or headaches!
+
 ## Set up steps:
 
 1. Created a folder on local system called "explore-git"
@@ -24,7 +30,7 @@
 
 **We are now have our local repo linked and up to date with a remote one!**
 
-## Working the project
+## Working a project
 
 ### Regularly adding and commiting work
 
@@ -100,5 +106,5 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
    - `git pull` (Can use git fetch to just check if there has been updates)
    
 ## Resources
-* [Renaming branches](https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/)
-* [Updating branch from main](https://stackoverflow.com/questions/3876977/update-git-branches-from-master)
+* [How Git Works](https://www.pluralsight.com/courses/how-git-works)
+* [Mastering Git](https://www.pluralsight.com/courses/master-git)
