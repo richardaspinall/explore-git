@@ -1,4 +1,4 @@
-# Exploring git!
+# Exploring Git!
 
 > Jan 2021
 
