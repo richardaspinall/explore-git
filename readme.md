@@ -68,4 +68,25 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
      switch to main
    - `git merge new-branch`
      merge changes into main
-4. Changed readme on main and pulled changes into new-branch
+
+### Pulling changes into new branch
+
+1. Changed readme on main
+2. Switched over to new-branch
+3. Made a commit on new-branch
+4. Merged main into new-branch
+   - `git merge main`
+5. Resolved conflicts and commited
+
+### Updating new branch merging into main then deleting new branch
+
+1. Updated new-branch
+2. Switched to main
+3. Merged new-branch
+4. Deleted new-branch
+   - `git branch -d new-branch`
+     delete the local branch
+   - `git push origin --delete new-branch`
+     delete the remote branch
+
+### Pull requests ()
