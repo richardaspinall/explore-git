@@ -43,4 +43,10 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
 1. Added some content and then restored:
    - `git restore .`
      restores everything back to the last commit
+2. Added work to staging and restored
    - `git add .`
+   - `git restore --staged .`
+3. Added to staging, then commited, then reverted the commit
+
+- `git commit -am "Commit to revert"
+- `git log` or `git log --oneline` (simplify output)
