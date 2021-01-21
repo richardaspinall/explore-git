@@ -63,3 +63,7 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
    - `git switch -c <branch-name>`
      creates a new branch and switches to it (`git branch new-branch` -> `git switch new-branch`)
    - `git commit -am "Commited on new branch"`
+   - `git checkout main`
+     switch to main
+   - `git merge new-branch`
+     merge changes into main
