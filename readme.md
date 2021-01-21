@@ -95,4 +95,4 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
 ### Fetch updates from remote repository
 1. Updated and commited on the readme on Github / Remote repository (like someone else would be working on the project)
 2. Pulled in the changes
-   - `git pull`
+   - `git pull` (can use `git fetch` to just check if there has been updates)
