@@ -1,4 +1,5 @@
 # Exploring git!
+
 > Jan 2021
 
 ## Set up steps:
@@ -93,6 +94,7 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
      delete the remote branch
 
 ### Fetch updates from remote repository
+
 1. Updated and commited on the readme on Github / Remote repository (like someone else would be working on the project)
 2. Pulled in the changes
-   - `git pull`
+   - `git pull` (Can use git fetch to just check if there has been updates)
