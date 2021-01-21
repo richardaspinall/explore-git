@@ -38,7 +38,7 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
 4. Push to remote
    - `git push`
 
-### Restoring work in current session
+### Restoring work
 
 1. Added some content and then restored:
    - `git restore .`
@@ -49,3 +49,21 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
 3. Added to staging, then commited, then reverted the commit
    - `git commit -am "Commit to revert"`
    - `git log` or `git log --oneline` (simplify output)
+     log commits
+   * `git revert <commit>`
+     revert the commit
+
+### Looking at an old commit and creating a new branch then pulling it into main
+
+1. Added a new file, commited and then reverted the commit
+2. Detached the commit and then created a new branch from it
+   - `git log`
+   - `git checkout <commit>`
+     checks out the commit
+   - `git switch -c <branch-name>`
+     creates a new branch and switches to it (`git branch new-branch` -> `git switch new-branch`)
+   - `git commit -am "Commited on new branch"`
+   - `git checkout main`
+     switch to main
+   - `git merge new-branch`
+     merge changes into main
