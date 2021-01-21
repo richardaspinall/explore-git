@@ -81,9 +81,11 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
 ### Updating new branch merging into main then deleting new branch
 
 1. Updated new-branch
-2. Switched to main
-3. Merged new-branch
-4. Deleted new-branch
+2. Create upstream branch and set remote
+   - `git push --set-upstream origin new-branch`
+3. Switched to main
+4. Merged new-branch
+5. Deleted new-branch
    - `git branch -d new-branch`
      delete the local branch
    - `git push origin --delete new-branch`
