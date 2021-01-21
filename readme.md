@@ -100,5 +100,5 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
    - `git pull` (Can use git fetch to just check if there has been updates)
    
 ## Resources
-* [Renaming branches] (https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/)
-* [Updating branch from main] (https://stackoverflow.com/questions/3876977/update-git-branches-from-master)
+* [Renaming branches](https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/)
+* [Updating branch from main](https://stackoverflow.com/questions/3876977/update-git-branches-from-master)
