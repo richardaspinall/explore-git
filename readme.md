@@ -24,6 +24,8 @@
 
 ## Working the project
 
+### Regularly adding and commiting work
+
 1. Added some more content to this readme
 2. Add everything to staging ready for commit
    - `git add .`
@@ -35,3 +37,12 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
 
 4. Push to remote
    - `git push`
+
+### Restoring work in current session
+
+1. Added some content and then restored:
+   - `git restore .`
+     restores everything back to the last commit
+   - `git add .`
+
+     unstaged
