@@ -32,3 +32,6 @@
    - `git commit -m "Updated readme`
 
 The above 2 steps can be rolled up into one command `git commit -am "Updated readme"`
+
+4. Push to remote
+   - `git push`
