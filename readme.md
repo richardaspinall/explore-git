@@ -44,5 +44,3 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
    - `git restore .`
      restores everything back to the last commit
    - `git add .`
-
-## undo this commit
