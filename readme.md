@@ -3,7 +3,7 @@
 > Jan 2021
 
 ## Description
-> This is a space for playing with Git in conjunction with a couple of Pluralsight courses. I've listed some steps that I took to test out and get familar with it. 
+> This is a space for playing with Git in conjunction with a couple of Pluralsight courses ([ref](https://github.com/richardaspinall/explore-git/blob/main/readme.md#resources)). I've listed some steps that I took to test out and get familar with it. 
 
 ## Goals
 > To get better at using Git so I can work projects more efficiently and also collaborate. Obviously this should naturally come second nature while working on projects but I want to ensure I don't ignore any best practices. Plus being able to use and traverse Git means I can more safely modify projects and save a lot of time or headaches!
