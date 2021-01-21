@@ -97,4 +97,8 @@ The above 2 steps can be rolled up into one command `git commit -am "Updated rea
 
 1. Updated and commited on the readme on Github / Remote repository (like someone else would be working on the project)
 2. Pulled in the changes
+<<<<<<< HEAD
    - `git pull` (Can use git fetch to just check if there has been updates)
+=======
+   - `git pull` (can use `git fetch` to just check if there has been updates)
+>>>>>>> c0a0824a9ad1a407b0f7f8944637efcef2b9a7ff
