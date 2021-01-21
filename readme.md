@@ -9,3 +9,4 @@ Steps:
    - **Command** `git add .`
    - **Command** `git commit -m "created project and initialized git"`
 4. Editing `master` branch name to `main`
+   - **Command** `git branch -m master main`
