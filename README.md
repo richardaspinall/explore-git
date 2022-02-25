@@ -1,5 +1,7 @@
 # Exploring Git!
 
+# MOVED TO CLICKUP https://app.clickup.com/6957861/v/dc/6mat5-1742/6mat5-5202
+
 > Jan 2021
 
 **Interactive tool for learning Git**:
