@@ -2,6 +2,9 @@
 
 > Jan 2021
 
+**Interactive tool for learning Git**:
+https://learngitbranching.js.org
+
 ## Description
 > This is a space for playing with Git in conjunction with a couple of Pluralsight courses ([ref](https://github.com/richardaspinall/explore-git/blob/main/readme.md#resources)). I've listed some steps that I took to test out and get familar with it. 
 
